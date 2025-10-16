@@ -111,3 +111,29 @@ Understanding and documenting design properties such as **colors, typography, an
 1. 🎨 **Consistency:** Ensures uniform visual style across all pages and components.  
 2. ⚙️ **Developer Efficiency:** Provides clear design tokens (colors, fonts, sizes) for faster implementation.  
 3. 📱 **Responsiveness:** Helps designers a
+
+---
+
+## 👥 Project Roles and Responsibilities
+
+The StayEase (Airbnb Clone) project involves multiple specialized roles, each contributing to the design, development, and deployment of the application.  
+The table below defines the key roles, their primary responsibilities, and how they contribute to the project’s success.
+
+---
+
+| **Role** | **Key Responsibilities** | **Contribution to Project Success** |
+|-----------|--------------------------|-------------------------------------|
+| **Project Manager (PM)** | - Oversee project timeline and deliverables.<br>- Coordinate communication and manage resources.<br>- Track progress and mitigate risks. | Ensures the team stays organized, deadlines are met, and goals are achieved efficiently. |
+| **Frontend Developers** | - Build the user interface using React or similar framework.<br>- Translate Figma designs into responsive, accessible layouts.<br>- Create reusable UI components and integrate APIs. | Deliver a smooth, responsive, and user-friendly experience across all devices. |
+| **Backend Developers** | - Develop RESTful APIs for listings, bookings, and authentication.<br>- Manage database design and queries.<br>- Implement security, logic, and data handling. | Power the app’s functionality and data integrity, ensuring scalability and reliability. |
+| **Designers** | - Create Figma mockups and define design systems.<br>- Establish color schemes, typography, and visual hierarchy.<br>- Ensure accessibility and design consistency. | Define the visual identity and guarantee intuitive, consistent user experiences. |
+| **QA/Testers** | - Develop and execute manual and automated test cases.<br>- Identify, document, and track bugs.<br>- Validate all features before deployment. | Maintain quality and reliability by ensuring all user flows and APIs function correctly. |
+| **DevOps Engineers** | - Set up CI/CD pipelines and manage deployments.<br>- Monitor server performance and scalability.<br>- Automate build and testing processes. | Ensure smooth deployment, system reliability, and efficient development workflows. |
+| **Product Owner (PO)** | - Define requirements and prioritize backlog items.<br>- Represent stakeholder interests.<br>- Approve completed features for release. | Aligns product development with user needs and business goals. |
+| **Scrum Master** | - Facilitate Agile meetings and remove team blockers.<br>- Promote collaboration and continuous improvement.<br>- Ensure adherence to Agile principles. | Keeps the team productive, focused, and adaptable throughout the project. |
+
+---
+
+### 🧭 Summary
+Each role is essential to building a reliable, scalable, and user-friendly platform.  
+By clearly defining responsibilities, the StayEase team ensures smooth collaboration, timely delivery, and overall project success.
