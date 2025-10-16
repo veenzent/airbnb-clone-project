@@ -79,3 +79,35 @@ A user-friendly design is essential for **building trust and increasing conversi
 - Deliver a consistent and professional brand experience.
 
 By prioritizing **clarity, responsiveness, and accessibility**, StayEase aims to replicate the smooth, enjoyable experience users expect from leading accommodation platforms like Airbnb.
+
+---
+
+### 🎨 Figma Design Specifications
+
+#### 🖌️ Color Styles
+| Purpose | Color | Hex Code |
+|----------|--------|----------|
+| **Primary** | Main brand accent color | `#FF5A5F` |
+| **Secondary** | Complementary accent color | `#008489` |
+| **Background** | Page background | `#FFFFFF` |
+| **Text** | Primary text color | `#222222` |
+| **Secondary Text** | Subtext and labels | `#717171` |
+
+---
+
+#### 🔤 Typography
+| Type | Font Family | Font Weight | Font Size |
+|------|--------------|--------------|-----------|
+| **Primary Font** | Circular | Medium (500) | 16px |
+| **Headings** | Circular | Bold (700) | 24px–32px |
+| **Secondary Text** | Circular | Book (400) | 14px |
+
+---
+
+### 💬 Importance of Identifying Design Properties
+Understanding and documenting design properties such as **colors, typography, and spacing** is crucial when working with mockup designs in tools like **Figma**. These properties ensure that developers can accurately translate the visual design into code, maintaining brand consistency and usability.
+
+**Key reasons why identifying design properties matters:**
+1. 🎨 **Consistency:** Ensures uniform visual style across all pages and components.  
+2. ⚙️ **Developer Efficiency:** Provides clear design tokens (colors, fonts, sizes) for faster implementation.  
+3. 📱 **Responsiveness:** Helps designers a
