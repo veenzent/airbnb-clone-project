@@ -137,3 +137,29 @@ The table below defines the key roles, their primary responsibilities, and how t
 ### 🧭 Summary
 Each role is essential to building a reliable, scalable, and user-friendly platform.  
 By clearly defining responsibilities, the StayEase team ensures smooth collaboration, timely delivery, and overall project success.
+
+---
+
+## 🧩 UI Component Patterns
+
+The StayEase (Airbnb Clone) project will use a **component-based architecture** to ensure reusability, maintainability, and design consistency.  
+Each UI component will follow responsive and accessible design principles aligned with the Figma style guide.
+
+---
+
+| **Component** | **Description** | **Key Elements** | **Purpose** |
+|----------------|-----------------|------------------|--------------|
+| **Navbar** | A global navigation bar that allows users to access main sections of the site quickly. | - StayEase logo<br>- Search bar<br>- User navigation menu<br>- Responsive hamburger menu for mobile | Provides quick navigation and maintains brand visibility across all pages. |
+| **Property Card** | A reusable card component that displays individual property details in grid or list views. | - Property image<br>- Title & location<br>- Price per night<br>- Rating<br>- Favorite (❤️) button | Allows users to browse and compare property listings easily. |
+| **Footer** | A global footer appearing on all pages with essential links and info. | - Site navigation links<br>- Company information<br>- Social media icons<br>- Copyright details | Provides supplemental navigation, brand info, and user trust signals. |
+<!-- | **Booking Form** | An interactive form for users to confirm booking details and dates. | - Date picker<br>- Guest selector<br>- Booking button | Enables users to complete booking flow easily and securely. |
+| **Search Filter Panel** | A collapsible sidebar or dropdown for refining property searches. | - Location filter<br>- Price range slider<br>- Rating filter<br>- Property type | Helps users find properties faster by narrowing results. |
+| **Image Carousel** | A sliding gallery for displaying property images. | - Image viewer<br>- Navigation arrows<br>- Thumbnail previews | Enhances the visual experience when viewing property details. | -->
+
+---
+
+### 💡 Design Considerations
+- Components will be **modular**, making them easy to reuse across pages.  
+- Follow **responsive design** to ensure usability on mobile, tablet, and desktop.  
+- Apply **consistent styling** using the predefined Figma color and typography system.  
+- Maintain **accessibility** (ARIA labels, keyboard navigation).  
